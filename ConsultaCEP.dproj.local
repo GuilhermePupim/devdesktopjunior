@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/04 15:07:28.000.202,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/04 15:09:32.000.962,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\Unit1.dfm=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/04/04 15:09:32.000.962,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\Unit1.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/04 15:09:41.000.270,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\ConsultaCEP.dproj=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/04/04 15:20:05.000.991,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\Unit2.pas</Transaction>
+    <Transaction>2025/04/04 15:20:49.000.693,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\consultacep.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\Unit2.pas</Transaction>
+    <Transaction>2025/04/04 15:22:00.000.916,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\cep.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\consultacep.pas</Transaction>
+    <Transaction>2025/04/04 15:22:11.000.553,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\uCep.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\ConsultaCEP\cep.pas</Transaction>
+  </Transactions>
+</BorlandProject>
