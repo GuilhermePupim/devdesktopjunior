@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "4247d089-ce35-4f2f-82ee-a5fb3224fbb2",
+		"name": "Desktop Junior",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43660450"
+	},
+	"item": [
+		{
+			"name": "Consulta CEP Tecnospeed",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/:cep/json",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						":cep",
+						"json"
+					],
+					"variable": [
+						{
+							"key": "cep",
+							"value": "87015310"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Logradouro Tecnospeed",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/:UF/:Cidade/:Logradouro/json",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						":UF",
+						":Cidade",
+						":Logradouro",
+						"json"
+					],
+					"variable": [
+						{
+							"key": "UF",
+							"value": "PR"
+						},
+						{
+							"key": "Cidade",
+							"value": "Maringa"
+						},
+						{
+							"key": "Logradouro",
+							"value": "Rua Antônio Carniel"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
